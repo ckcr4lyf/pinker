@@ -1,0 +1,25 @@
+{
+    "name": "pinker",
+    "displayName": "pinker",
+    "publisher": "poiasdpoiasd",
+    "description": "Pink theme",
+    "version": "0.0.2",
+    "repository": {
+        "url": "https://github.com/ckcr4lyf/pinker"
+    },
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pinker",
+                "uiTheme": "hc-black",
+                "path": "./themes/Pinker-color-theme.json"
+            }
+        ]
+    }
+}
