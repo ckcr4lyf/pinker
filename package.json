@@ -3,8 +3,8 @@
     "displayName": "pinker",
     "publisher": "poiasdpoiasd",
     "description": "Pink theme",
-    "version": "0.0.4",
-    "icon": "./images/icon.png",
+    "version": "0.0.5",
+    "icon": "images/icon.png",
     "repository": {
         "url": "https://github.com/ckcr4lyf/pinker"
     },
