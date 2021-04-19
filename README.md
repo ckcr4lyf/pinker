@@ -1,6 +1,6 @@
 # Pinker
 
-Pinker is a hight contrast, dark theme, revolving around shades of pink / purple, with hints of blue.
+Pinker is a high contrast, dark theme, revolving around shades of pink / purple, with hints of blue.
 
 The theme is currently optimized only for Typescript / Javascript. These colors are based on my preferences. I couldn't find a theme I liked with the color preferences too, so I decided to make my own instead.
 

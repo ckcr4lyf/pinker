@@ -3,7 +3,7 @@
 	"type": "dark",
 	"colors": {
 		"editor.background": "#070025",
-		"editor.foreground": "#037cbd",
+		"editor.foreground": "#53b1dd",
 		"editor.lineHighlightBorder": "#ff00ff",
 		"editor.selectionBackground": "#ffb4f5a4",
 		"selection.background": "#008000",
@@ -24,6 +24,20 @@
 			"scope": "constant.language",
 			"settings": {
 				"foreground": "#a507a5"
+			}
+		},
+		{
+			"scope": "markup.heading",
+			"settings": {
+				"foreground": "#ff00f2",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "markup.inline.raw",
+			"settings": {
+				"foreground": "#ae00ff",
+				// "fontStyle": "bold"
 			}
 		},
 		{
